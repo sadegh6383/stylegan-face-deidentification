@@ -1,4 +1,4 @@
-# stylegan-face-deidentification
+# Examining StyleGAN as a Utility-Preserving Face De-identification Method
 This repository is a part of my paper: Examining StyleGAN as a Utility-Preserving Face De-identification Method.
 You can download the code and data from here: https://drive.google.com/drive/folders/13vA3sBsBWrthZpbJIU3IjMsaA-mDLznh?usp=sharing
 
