@@ -1,5 +1,6 @@
 # stylegan-face-deidentification
 This repository is a part of my paper: Examining StyleGAN as a Utility-Preserving Face De-identification Method.
+You can download the code and data from here: https://drive.google.com/drive/folders/13vA3sBsBWrthZpbJIU3IjMsaA-mDLznh?usp=sharing
 
 The codes were successfully run on the following GPU and Linux OS. There is no guarantee that they are executable on other OS with different GPU types:
  
